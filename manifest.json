@@ -3,7 +3,7 @@
   "short_name": "Batch Tracker",
   "theme_color": "#073a73",
   "background_color": "#073a73",
-  "display": "fullscreen",
+  "display": "standalone",
   "scope": "/",
   "start_url": "/",
   "icons": [
